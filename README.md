@@ -1,5 +1,6 @@
 # Email OTP_Verification_Using_Django
-Basic Email OTP verification system using Django.
+
+This project is used for verifying the users, or to validate the user actions like password change and more through OTP.
 
 ## This project is build with : 
      Django,
@@ -23,8 +24,7 @@ Basic Email OTP verification system using Django.
       2.  User email get verify through registration.
       3.  Used SMTP protocol for sending the OTP.
       3.  Used SSL security for content encryption.
-
-  
+      
 
   
   
