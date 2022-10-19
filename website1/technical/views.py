@@ -25,8 +25,8 @@ def reg_verification(request):
         otp = np.random.randint(111111, 999999)
         smtp_server = "smtp.outlook.com"
         port = 587  # For starttls# outlook PORT = 587
-        sender_email = "21mci1033@cuchd.in"
-        sender_password = 'CUniversity@21'
+        sender_email = "example@example.com" # Write the sender email 
+        sender_password = '***********' # Write the password
         receiver_email = email
         message = """\
                     Subject: OTP Verification
